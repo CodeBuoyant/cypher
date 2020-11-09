@@ -1,0 +1,18 @@
+{
+  "name": "cypher",
+  "version": "1.0.0",
+  "description": "cypher - Vue Nuxt Digital Services Agency Template",
+  "author": "Layerdrops",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@bazzite/nuxt-optimized-images": "^0.3.0",
+    "nuxt": "^2.14.7"
+  },
+  "devDependencies": {}
+}
